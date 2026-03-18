@@ -605,6 +605,10 @@ section,
   .hero p {
     font-size: 20px;
   }
+  .hero .certifications {
+    flex-wrap: wrap;
+    justify-content: center;
+  }
 }
 
 /*--------------------------------------------------------------
